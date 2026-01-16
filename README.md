@@ -1,6 +1,6 @@
 # Word-Counter-Program-Python
 
-Author: Bonnie Mokoena
+Author: Babyface Mokoena
 Language: Python
 
 ## Description
